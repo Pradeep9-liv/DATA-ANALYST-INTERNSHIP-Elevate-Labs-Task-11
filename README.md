@@ -85,6 +85,3 @@ Do not deploy the new landing page in production.
 - Test alternative page designs
 - Perform segmented analysis (country, device, traffic source)
 - Increase test duration for stronger statistical power
-
-├── ab_test_summary.csv
-├── README.md
